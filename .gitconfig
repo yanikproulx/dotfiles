@@ -1,0 +1,18 @@
+[user]
+	name = Yanik Proulx
+	email = yproulx@perimetre.co
+	#email = yanikproulx@gmail.com
+[core]
+	editor = vim
+	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+	mergeoptions = --no-editi
+	quotepath = false
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+[push]
+	default = current
+[branch]
+	autoSetupMerge = always
