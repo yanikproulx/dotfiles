@@ -3,11 +3,11 @@
 cask_args appdir: "/Applications"
 
 # Make everything clean
-update
-doctor
+# update
+# doctor
 
 # Packages
-brew "compose"
+brew "composer"
 brew "cowsay"
 brew "htop"
 brew "git"
